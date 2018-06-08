@@ -1,0 +1,4 @@
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2017s2\projExemploGravacao\projExemploGravacao\bin\Debug\projExemploGravacao.exe
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2017s2\projExemploGravacao\projExemploGravacao\bin\Debug\projExemploGravacao.pdb
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2017s2\projExemploGravacao\projExemploGravacao\obj\x86\Debug\projExemploGravacao.exe
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2017s2\projExemploGravacao\projExemploGravacao\obj\x86\Debug\projExemploGravacao.pdb
